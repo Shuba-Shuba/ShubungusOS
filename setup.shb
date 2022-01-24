@@ -1,4 +1,4 @@
 import webbrowser
 strURL = "https://github.com/Shuba-Shuba/"
 webbrowser.open(strURL, new=0)
-print('gb_arg1 complete')
+print('gagbeans_arg1 complete')
